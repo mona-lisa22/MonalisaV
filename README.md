@@ -40,8 +40,8 @@ I aspire to work in roles that allow me to apply my skills in **backend developm
 
 Feel free to explore my repositories and get in touch:
 
-- Email: [monalisa@example.com](mailto:monalisa@example.com)
-- LinkedIn: [Monalisa](https://www.linkedin.com/in/monalisa)
+- Email: [monalisaviswa22@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/monalisa-v-212201262]
 
 ---
 
