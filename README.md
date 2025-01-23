@@ -9,7 +9,7 @@ I'm a **Computer Science Fresher (2024)** with a strong foundation in **Python**
 - **Programming Languages:** Python
 - **Database Management:** MySQL
 - **Data Visualization:** Power BI, Tableau
-- **Other Tools:** Git, VS Code, Excel
+- **Other Tools:** Ms Applications,Excel
 
 ---
 
