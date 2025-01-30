@@ -6,7 +6,7 @@ I'm a **Computer Science Fresher (2024)** with a strong foundation in **Python**
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python (Numpy,Pandas,Matplotlib)
 - **Database Management:** MySQL
 - **Data Visualization:** Power BI, Tableau
 - **Other Tools:** Ms Applications,Excel
