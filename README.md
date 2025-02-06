@@ -13,15 +13,24 @@ I'm a **Computer Science Fresher (2024)** with a strong foundation in **Python**
 
 ---
 
-## 🔄 Projects
+## 🔄 Projects  
 
-- **MY HELPER (Android App):** Designed for location tracking using SMS by enabling device ringing and retrieving GPS coordinates.
-- **Pizza Sales Dashboard:** A dynamic Tableau dashboard to visualize and analyze pizza sales data, focusing on key business metrics.
-- **IPL Analysis Dashboard:** Developed an interactive Tableau dashboard to analyze and visualize data from the Indian Premier League (IPL).
-- **Real-Time Intrusion Detection System:** Implemented a network intrusion detection system adaptable to changing traffic patterns using Python, MATLAB 2019, and machine learning algorithms like Naive Bayes (NB) and K-Nearest Neighbors (KNN).
-- **Weather Forecast App:** A Python application fetching and displaying real-time weather data using APIs.
+### 🍕 Pizza Sales Dashboard  
+- **Tools:** Tableau  
+- **Description:** Designed an interactive dashboard to analyze pizza sales performance, trends, and customer preferences.  
 
----
+### 🏏 IPL Analysis Dashboard  
+- **Tools:** Tableau  
+- **Description:** Built a dynamic visualization dashboard for IPL data, offering insights into team performance, player statistics, and match trends.  
+
+### 🎬 Netflix Content Analysis  
+- **Tools:** Power BI, DAX  
+- **Description:** Developed an interactive Power BI dashboard to explore Netflix’s content distribution, genre trends, and ratings, using DAX for advanced data modeling.  
+
+### 🛍️ Retail Data Analytics  
+- **Tools:** Python (Pandas), SQL (MySQL)  
+- **Description:** Performed data cleaning and transformation using Pandas and integrated MySQL for structured retail data management.  
+
 
 ## 🌐 Career Interests
 
